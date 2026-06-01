@@ -1,6 +1,6 @@
 !-- 🔥 Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=220&section=header&text=Kanishkaa%20Sri%20P&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=220&section=header&text=Kanishkaa%20Sri%20PR&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <!-- ⚡ Typing Animation -->
 
 <p align="center">
