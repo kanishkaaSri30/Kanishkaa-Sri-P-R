@@ -1,23 +1,6 @@
-## Hi there 👋
+!-- 🔥 Animated Header -->
 
-<!--
-**kanishkaaSri30/kanishkaaSri30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 🔥 Animated Header -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=220&section=header&text=Infant%20Praveenkumar%20V&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=220&section=header&text=Kanishkaa%20Sri%20P&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <!-- ⚡ Typing Animation -->
 
 <p align="center">
@@ -44,7 +27,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/kanishkaaSri30">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/Kanishkaa-Sri-P-R-b1045a3b6?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+  <a href="https://www.linkedin.com/kanishkaa-Sri-P-R-b1045a3b6?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:kanishkaasripr@gmail.com">
