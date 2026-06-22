@@ -174,11 +174,11 @@ Full Stack Web Development Intern
 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=25infant08&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=kanishkaaSri30&theme=tokyonight&hide_border=true"/>
 </p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=25infant08&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishkaaSri30&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25infant08&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkaaSri30&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -186,7 +186,7 @@ Full Stack Web Development Intern
 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=25infant08&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkaaSri30&theme=tokyo-night"/>
 </p>
 
 ---
@@ -230,7 +230,7 @@ I enjoy transforming innovative ideas functional applications and solving real-w
 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=25infant08&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=kanishkaaSri30&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
