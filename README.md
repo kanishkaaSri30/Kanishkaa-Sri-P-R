@@ -7,6 +7,7 @@
 👨‍💻 About Me
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+
 - Pursuing B.Tech in Information Technology
  
 - Skilled in C, C++, Python and JavaScript
@@ -37,9 +38,9 @@ Motivated Information Technology student with a strong interest in software deve
   <a href="https://github.com/kanishkaaSri30/Kanishkaa-Sri-P-R">
   <a href="">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
-  </a>  <a href="https://www.linkedin.com/in/infant-praveenkumar-v-b1045a3b6">
+  </a>  <a href="https://www.linkedin.com/in/kanishkaa-sri-p-r-30700a413/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>  <a href="mailto:infantpraveenkumarv@gmail.com">
+  </a>  <a href="mailto:kanishkaasripr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
