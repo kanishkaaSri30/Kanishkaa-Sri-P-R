@@ -35,7 +35,7 @@ Motivated Information Technology student with a strong interest in software deve
 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/kanishkaaSri30/Kanishkaa-Sri-P-R">
+  <a href="https://github.com/kanishkaaSri30">
   <a href="">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
   </a>  <a href="https://www.linkedin.com/in/kanishkaa-sri-p-r-30700a413/">
